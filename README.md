@@ -1,0 +1,2 @@
+# training
+*For myself*
